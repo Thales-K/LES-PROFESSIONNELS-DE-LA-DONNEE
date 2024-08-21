@@ -1,8 +1,23 @@
-# LES PROFESSIONNELS DE LA DONNEE
+# ENQUETE LES PROFESSIONNELS DE LA DONNEE
+## SOMMAIRE
+- [Objectif du Projet](##Objectif-du-Projet)
+- [Réalisation du projet](##Réalisation-du-projet)
+  - [Extraction nettoyage et transformation des données](###Extraction-nettoyage-et-transformation-des-données)
+  - [Visualisation](###Visualisation)
+- [Analyse et Principaux résultats](##Analyse-et-Principaux-résultats)
+  - [Caractéristiques de l'échantillon](###Caractéristiques-de-l'échantillon)
+  - [Principaux enseignements et recommandations](###Principaux-enseignements-et-recommandations)
 
-Ce projet utilise les données d'une enquête qui vise à comprendre les préférences, les tendances et les défis auxquels les professionnels des données sont confrontés. Il offre une interface conviviale avec des visualisations interactives pour faciliter l'exploration des données et la prise de décision. Cette base de données est disponible [ici](https://www.kaggle.com/datasets/ahmedmohamedibrahim1/data-professional-survey-breakdown)  
 
-Il est réalisé avec Power bi desktop. Les données ont été nettoyées et transformées avec Power Query grâce au code suivant : 
+
+## Objectif du Projet
+Ce projet utilise les données d'une enquête qui vise à comprendre les préférences, les tendances et les défis auxquels les professionnels des données sont confrontés. Il offre une interface conviviale avec des visualisations interactives pour faciliter l'exploration des données et la prise de décision. La base de données a été obtenue [ici](https://www.kaggle.com/datasets/ahmedmohamedibrahim1/data-professional-survey-breakdown)  
+
+## Réalisation du projet
+Il est réalisé avec Power bi desktop. 
+
+### Extraction nettoyage et transformation des données
+Les données ont été nettoyées et transformées avec Power Query grâce au code suivant : 
 
 	let
 	    Source = Excel.Workbook(File.Contents("CHEMIN\Power BI Project.xlsx"), null, true),
@@ -51,7 +66,21 @@ Il est réalisé avec Power bi desktop. Les données ont été nettoyées et tra
 	in
 	    #"Renamed Columns6".
 
-Principaux enseignements :
+### Visualisation
+ 
+
+
+## Analyse et Principaux résultats
+
+### Caractéristiques de l'échantillon
 Aussi, il s'agit d'une enquête, il faut présenter les caractéristiques de l'échantillon afin d'en évaluer la représentativité.
 [Caractéristiques des enquêtés](/assets/img/Caractéristiques des enquêtés.png)
 [Principaux résultats](/assets/img/Principaux résultats.png)
+
+
+
+### Principaux enseignements et recommandations
+
+
+
+ 
