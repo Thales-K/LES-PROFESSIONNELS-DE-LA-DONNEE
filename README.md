@@ -74,8 +74,8 @@ Les données ont été nettoyées et transformées avec Power Query grâce au co
 
 ### Caractéristiques de l'échantillon
 Aussi, il s'agit d'une enquête, il faut présenter les caractéristiques de l'échantillon afin d'en évaluer la représentativité.
-[Caractéristiques des enquêtés](/assets/img/Caractéristiques des enquêtés.png)
-[Principaux résultats](/assets/img/Principaux résultats.png)
+![Caractéristiques-des-enquêtés](assets/img/Caractéristiques des enquêtés.png)
+![Principaux-résultats](assets/img/Principaux résultats.png)
 
 
 
