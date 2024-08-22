@@ -80,17 +80,20 @@ Grâce à ces transformations
 ### Visualisation
 
 Afin de miex cernernous avons 
-Page 1 : Caractéristiqes
+Page 1 : Caractéristiques de l'échantillon
 
-Répartition des enquêtés par poste
-Répartition des enquêtés par pays
-Répartition des enquêtés par genre
-Répartition des enquêtés par industrie
+- Une carte présentant le nombre d'enquêtés
+- Une carte présentant l'age moyen des enquêtés
+- Un Graphique en secteurs présentant la répartition des enquêtés par poste
+- Un Treemap présentant la répartition des enquêtés par pays
+- Un Graphique en anneau présentant la répartition des enquêtés par genre
+- Un Graphique en anneau présentant la répartition des enquêtés par industrie
 
-Effectifs et salaires moyens par poste
-Niveau de satisfaction selon différents aspects et le poste occupé
-Proportion des préférences de langage de prog. par poste
-Proportion 
+Page 2 : Principaux résultats
+- Un Graphique en courbes et histogramme groupé présentant les Effectifs et salaires moyens par poste
+- Une Matrice présentant le Niveau de satisfaction selon différents aspects et le poste occupé
+- Un Graphique à barres empilés 100% présentant la Proportion des préférences de langage de prog. par poste
+- Un Graphique à barres empilés 100% présentant l'Aspect prioritaire pour une nouvelle position selon le poste 
 
 
 
@@ -106,7 +109,7 @@ Au regard
 
 ### Principaux enseignements et recommandations
 
-![Principaux-résultats](/assets/img/Principaux__résultats.png)
+![Principaux-résultats](/assets/img/Principaux___résultats.png)
 
 Ce projet a permis de mettre en lumière que le salaire, l’équilibre vie privée/vie professionnel et la possibilité de télétravail sont les facteurs qui influence les professionnel de la donnée dans leur choix de carrière. De plus, il montre que le langage Python est langage de programmation préféré de ces professionnels quel que soit leur spécialité.
  
