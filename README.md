@@ -106,7 +106,7 @@ Au regard
 
 ### Principaux enseignements et recommandations
 
-![Principaux-résultats](/assets/img/Principaux_résultats.png)
+![Principaux-résultats](/assets/img/Principaux__résultats.png)
 
 Ce projet a permis de mettre en lumière que le salaire, l’équilibre vie privée/vie professionnel et la possibilité de télétravail sont les facteurs qui influence les professionnel de la donnée dans leur choix de carrière. De plus, il montre que le langage Python est langage de programmation préféré de ces professionnels quel que soit leur spécialité.
  
