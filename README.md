@@ -18,12 +18,13 @@ Il est réalisé avec Power bi desktop.
 
 ### Extraction nettoyage et transformation des données
 Les données ont été nettoyées et transformées avec Power Query. De façon spécifique, il s'est agit de : 
--- les variables pertinentes pour l'analyse ont été identifiées
--- 
--- 
--- 
--- 
--- 
+
+- les variables pertinentes pour l'analyse ont été identifiées
+- 
+- 
+- 
+- 
+- 
 
 grâce au code suivant : 
 
@@ -79,7 +80,8 @@ Grâce à ces transformations
 
 ### Visualisation
 
-Afin de miex cernernous avons 
+Afin de mieux cerner nous avons 
+
 Page 1 : Caractéristiques de l'échantillon
 
 - Une carte présentant le nombre d'enquêtés
@@ -90,6 +92,7 @@ Page 1 : Caractéristiques de l'échantillon
 - Un Graphique en anneau présentant la répartition des enquêtés par industrie
 
 Page 2 : Principaux résultats
+
 - Un Graphique en courbes et histogramme groupé présentant les Effectifs et salaires moyens par poste
 - Une Matrice présentant le Niveau de satisfaction selon différents aspects et le poste occupé
 - Un Graphique à barres empilés 100% présentant la Proportion des préférences de langage de prog. par poste
@@ -102,7 +105,7 @@ Page 2 : Principaux résultats
 ### Caractéristiques de l'échantillon
 Aussi, il s'agit d'une enquête, il faut présenter les caractéristiques de l'échantillon afin d'en évaluer la représentativité.
 
-![Caractéristiques-des-enquêtés](/assets/img/Caractéristiques_des_enquêtés.png)
+![Caractéristiques-des-enquêtés](/assets/img/Caractéristiques_des_enquêtés.gif)
 
 Au regard 
 
