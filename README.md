@@ -17,7 +17,16 @@ Ce projet utilise les données d'une enquête qui vise à comprendre les préfé
 Il est réalisé avec Power bi desktop. 
 
 ### Extraction nettoyage et transformation des données
-Les données ont été nettoyées et transformées avec Power Query grâce au code suivant : 
+Les données ont été nettoyées et transformées avec Power Query. De façon spécifique, il s'est agit de : 
+-- les variables pertinentes pour l'analyse ont été identifiées
+-- 
+-- 
+-- 
+-- 
+-- 
+
+grâce au code suivant : 
+
 
 	let
 	    Source = Excel.Workbook(File.Contents("CHEMIN\Power BI Project.xlsx"), null, true),
@@ -66,8 +75,23 @@ Les données ont été nettoyées et transformées avec Power Query grâce au co
 	in
 	    #"Renamed Columns6".
 
+Grâce à ces transformations
+
 ### Visualisation
- 
+
+Afin de miex cernernous avons 
+Page 1 : Caractéristiqes
+
+Répartition des enquêtés par poste
+Répartition des enquêtés par pays
+Répartition des enquêtés par genre
+Répartition des enquêtés par industrie
+
+Effectifs et salaires moyens par poste
+Niveau de satisfaction selon différents aspects et le poste occupé
+Proportion des préférences de langage de prog. par poste
+Proportion 
+
 
 
 ## Analyse et Principaux résultats
@@ -77,12 +101,12 @@ Aussi, il s'agit d'une enquête, il faut présenter les caractéristiques de l'�
 
 ![Caractéristiques-des-enquêtés](/assets/img/Caractéristiques_des_enquêtés.png)
 
-
+Au regard 
 
 
 ### Principaux enseignements et recommandations
 
 ![Principaux-résultats](/assets/img/Principaux_résultats.png)
 
-
+Ce projet a permis de mettre en lumière que le salaire, l’équilibre vie privée/vie professionnel et la possibilité de télétravail sont les facteurs qui influence les professionnel de la donnée dans leur choix de carrière. De plus, il montre que le langage Python est langage de programmation préféré de ces professionnels quel que soit leur spécialité.
  
