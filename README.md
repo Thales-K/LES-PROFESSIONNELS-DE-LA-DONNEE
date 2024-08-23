@@ -16,17 +16,16 @@ Ce projet utilise les données d'une enquête qui vise à comprendre les préfé
 ## Réalisation du projet
 Il est réalisé avec Power bi desktop. 
 
-### Extraction nettoyage et transformation des données
+### Extraction, nettoyage et transformation des données
 Les données ont été nettoyées et transformées avec Power Query. De façon spécifique, il s'est agit de : 
 
-- les variables pertinentes pour l'analyse ont été identifiées
-- 
-- 
-- 
-- 
-- 
+- identifier les variables d'intérêt pour l'analyse ;
+- transformer certaines variables ;
+- corriger les types de variables incorrects ;
+- corriger les ordres de grandeurs de certaines variables
+- conserver uniquement les variables pertinentes pour l'analyse.
 
-grâce au code suivant : 
+Cela a pu être effectuer grâce au code suivant : 
 
 
 	let
@@ -76,7 +75,7 @@ grâce au code suivant :
 	in
 	    #"Renamed Columns6".
 
-Grâce à ces transformations
+A l'issue de ces transformations, les données sont chargées dans Power BI Desktop.
 
 ### Visualisation
 
