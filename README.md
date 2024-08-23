@@ -79,7 +79,7 @@ A l'issue de ces transformations, les données sont chargées dans Power BI Desk
 
 ### Visualisation
 
-Afin de mieux cerner nous avons 
+Pour analyser les données, nous procèderons en deux étapes. En premier lieu, il faut examiner les caractéristiques de nos répondants en termes démographique ou de secteur d'activité. De cette manière, on pourrait apprécier par exemple, la représentativité de l'échantillon. En second lieu, nous pouvons faire ressortir les éléments saillants de l'enquête, en l'occurence, les préférences, les tendances et les défis auxquels les professionnels des données sont confrontés. Chacun de ces aspects sera afficher sur une page :
 
 Page 1 : Caractéristiques de l'échantillon
 
@@ -89,6 +89,7 @@ Page 1 : Caractéristiques de l'échantillon
 - Un Treemap présentant la répartition des enquêtés par pays
 - Un Graphique en anneau présentant la répartition des enquêtés par genre
 - Un Graphique en anneau présentant la répartition des enquêtés par industrie
+
 
 Page 2 : Principaux résultats
 
@@ -113,5 +114,7 @@ Au regard
 
 ![Principaux-résultats](/assets/img/Principaux___résultats.png)
 
-Ce projet a permis de mettre en lumière que le salaire, l’équilibre vie privée/vie professionnel et la possibilité de télétravail sont les facteurs qui influence les professionnel de la donnée dans leur choix de carrière. De plus, il montre que le langage Python est langage de programmation préféré de ces professionnels quel que soit leur spécialité.
+Ce projet a permis de mettre en lumière que le salaire, l’équilibre vie privée/vie professionnel et la possibilité de télétravail sont les facteurs qui influence les professionnel de la donnée dans leur choix de carrière. De plus, il montre que le langage Python est langage de programmation préféré de ces professionnels quel que soit leur spécialité. 
+
+En conclusion, les firmes recrutant des professionnels de la donnée pourrait rendre leur offre plus intéressante, non seulement grâce à un bon salaire, mais surtout en mettant l'accent sur l'équilibre vie privée/ vie professionnel et la possibilité de travailler à distance. Aussi, offrir des solutions utilisant comme langage de programmation python permettrait de toucher plus majoritairement les professionnel de la donnée.
  
