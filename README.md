@@ -103,18 +103,20 @@ Page 2 : Principaux résultats
 ## Analyse et Principaux résultats
 
 ### Caractéristiques de l'échantillon
-Aussi, il s'agit d'une enquête, il faut présenter les caractéristiques de l'échantillon afin d'en évaluer la représentativité.
+
 
 ![Caractéristiques-des-enquêtés](/assets/img/Caractéristiques_des_enquêtés.gif)
 
-Au regard 
-
+Les informations affichées sur la première page ci-dessus, du rapport présente les caractéristiques de l'échantillon. On note que les Data Analyst représentent la majorité (près de 60%) des répondants. Leur âge moyen est de 30 ans et les 3/4 sont du genre masculin.
 
 ### Principaux enseignements et recommandations
 
+L'analyse desdonnées des données nous révèle que les Data scientist sont les professionnals de la data les mieux payés en moyenne, suivis des Data Engineer et des Data Architect. Cela se remarque par rapport au niveau de la satisfaction concernant le salaire qui est plus élevé pour les Data scientist et les Data architect. Pour ces derniers, on remarque également que l'équilibre vie privée/vie professionnelle est la moins satisfaisante comparativement aux autres professionnels. En témoigne la proportion élevé (60%) de ces professionnels (Data architect) qui considèrent cet équilibre comme l'aspect prioritaire qui va conditionné le choix de leur prochaine position.
+Par ailleurs, le langage de programmation préféré de professionnels est très largement python, et ceci, peut importe le poste considéré. En effet, la préférence pour ce langage va d'un minimum de 61% (chez les autres professionnels de la donnée) à un maximu de 100% (chez les Data Architect).
+
 ![Principaux-résultats](/assets/img/Principaux___résultats.png)
 
-Ce projet a permis de mettre en lumière que le salaire, l’équilibre vie privée/vie professionnel et la possibilité de télétravail sont les facteurs qui influence les professionnel de la donnée dans leur choix de carrière. De plus, il montre que le langage Python est langage de programmation préféré de ces professionnels quel que soit leur spécialité. 
+Ce projet a permis de mettre en lumière que le salaire, l’équilibre vie privée/vie professionnelle et la possibilité de télétravail sont les facteurs qui influence les professionnel de la donnée dans leur choix de carrière. De plus, il montre que le langage Python est langage de programmation préféré de ces professionnels quel que soit leur spécialité. 
 
-En conclusion, les firmes recrutant des professionnels de la donnée pourrait rendre leur offre plus intéressante, non seulement grâce à un bon salaire, mais surtout en mettant l'accent sur l'équilibre vie privée/ vie professionnel et la possibilité de travailler à distance. Aussi, offrir des solutions utilisant comme langage de programmation python permettrait de toucher plus majoritairement les professionnel de la donnée.
+En conclusion, les firmes recrutant des professionnels de la donnée pourrait rendre leur offre plus intéressante, non seulement grâce à un bon salaire, mais surtout en mettant l'accent sur l'équilibre vie privée/ vie professionnelle et la possibilité de travailler à distance. Aussi, offrir des solutions utilisant comme langage de programmation python permettrait de toucher plus majoritairement les professionnel de la donnée.
  
